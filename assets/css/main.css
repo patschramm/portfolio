@@ -3307,3 +3307,7 @@ input, select, textarea {
 	right: 0;
 }
 
+.portfolio-pic {
+	height: 15em;
+	width: 15em;
+}
