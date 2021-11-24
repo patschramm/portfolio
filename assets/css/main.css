@@ -2722,7 +2722,7 @@ input, select, textarea {
 			content: '';
 			left: 50%;
 			position: absolute;
-			width: 1px;
+			/* width: 1px;   */
 			z-index: 0;
 		}
 
