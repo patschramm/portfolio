@@ -3311,3 +3311,12 @@ input, select, textarea {
 	height: 15em;
 	width: 15em;
 }
+
+.skills-header {
+	font-size: 1.8em;
+}
+
+.skills {
+	font-size: 1.5em;
+	font-weight: 500;
+}
